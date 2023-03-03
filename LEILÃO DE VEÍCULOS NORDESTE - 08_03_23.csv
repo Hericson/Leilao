@@ -1,11 +1,49 @@
-VEHICLE,BATCH,KM,YEAR,FUEL,COLOR,FIPE,YARD,RESUME-TYPE,TYPE,HAS-KEY,BANK
-renault/kwid zen 1.0 mecanico,1,23.368,20/21,Flex,BRANCA,"R$ 49.991,00",PATIO 2 - FORTALEZA/CE,,Veículos,Sim,BANCO SANTANDER S/A
-chevrolet/prisma joye 1.0 mecanico (4p),2,58.003,19/19,Flex,BRANCA,"R$ 53.894,00",PATIO 2 - FORTALEZA/CE,,Veículos,Sim,BANCO SANTANDER S/A
-fiat/strada hard working cabine simples cc e,3,102.032,19/19,Flex,PRATA,"R$ 61.111,00",PATIO 2 - FORTALEZA/CE,,Veículos,Sim,BANCO SANTANDER S/A
-hyundai/hb20 unique (4p),4,72.312,19/19,Flex,BRANCA,"R$ 55.370,00",PATIO 2 - FORTALEZA/CE,,Veículos,Sim,BANCO SANTANDER S/A
-ford/ka se c,5,119.655,19/20,Flex,BRANCA,"R$ 57.698,00",PATIO 2 - FORTALEZA/CE,,Veículos,Sim,BANCO SANTANDER S/A
-fiat/argo drive 1.0 (4p),6,53.201,18/18,Flex,VERMELHA,"R$ 54.644,00",PATIO 2 - FORTALEZA/CE,,Veículos,Sim,BANCO SANTANDER S/A
-volkswagen/novo gol trendline mcv (4p),7,93.264,18/18,Flex,BRANCA,"R$ 46.909,00",PATIO 2 - FORTALEZA/CE,,Veículos,Sim,BANCO SANTANDER S/A
-volkswagen/jetta highline ae (4p),8,124.126,16/16,Gasolina,BRANCA,"R$ 93.171,00",PATIO 2 - FORTALEZA/CE,,Veículos,Sim,BANCO SANTANDER S/A
-honda/cg 125 cargo ks,14,Gasolina,13/13,VERMELHA,Estimativa de mercado,,,,Não,,NORSA REFRIGERANTES S/A
-honda/cg 125 cargo ks,15,Gasolina,13/13,VERMELHA,Estimativa de mercado,,,,Não,,NORSA REFRIGERANTES S/A
+BATCH,VEHICLE,KM,YEAR,FUEL,COLOR,FIPE,YARD,RESUME-TYPE,TYPE,HAS-KEY,BANK
+1,renault/kwid zen 1.0 mecanico,23.368,20/21,Flex,BRANCA,"R$ 49.991,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO SANTANDER S/A
+2,chevrolet/prisma joye 1.0 mecanico (4p),58.003,19/19,Flex,BRANCA,"R$ 53.894,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO SANTANDER S/A
+3,fiat/strada hard working cabine simples cc e,102.032,19/19,Flex,PRATA,"R$ 61.111,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO SANTANDER S/A
+4,hyundai/hb20 unique (4p),72.312,19/19,Flex,BRANCA,"R$ 55.370,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO SANTANDER S/A
+5,ford/ka se c,119.655,19/20,Flex,BRANCA,"R$ 57.698,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO SANTANDER S/A
+6,fiat/argo drive 1.0 (4p),53.201,18/18,Flex,VERMELHA,"R$ 54.644,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO SANTANDER S/A
+7,volkswagen/novo gol trendline mcv (4p),93.264,18/18,Flex,BRANCA,"R$ 46.909,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO SANTANDER S/A
+8,volkswagen/jetta highline ae (4p),124.126,16/16,Gasolina,BRANCA,"R$ 93.171,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO SANTANDER S/A
+20,chevrolet/onix lt 1.0 mecanico (4p),74.804,17/17,Flex,BRANCA,"R$ 50.743,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO VOLKSWAGEN S/A
+21,ford/ranger xl cabine dupla 2 25,129.729,14/15,Flex,BRANCA,"R$ 87.000,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Utilitários,Sim,BANCO VOLKSWAGEN S/A
+22,renault/kwid zen 1.0 mecanico,149.556,18/19,Flex,BRANCA,"R$ 45.394,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO VOLKSWAGEN S/A
+23,ford/ka se (4p),102.655,14/15,Flex,BRANCA,"R$ 42.234,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO VOLKSWAGEN S/A
+24,volkswagen/virtus af,79.958,20/21,Flex,BRANCA,"R$ 84.918,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO VOLKSWAGEN S/A
+25,hyundai/hb20 unique (4p),124.624,18/19,Flex,PRATA,"R$ 56.161,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO VOLKSWAGEN S/A
+26,volkswagen/gol mc4 (4p),228.385,19/20,Flex,BRANCA,"R$ 52.157,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO VOLKSWAGEN S/A
+27,hyundai/hb20s comfortline (4p),174.126,14/14,Flex,PRATA,"R$ 45.744,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO VOLKSWAGEN S/A
+28,volkswagen/polo comfortline ad,50.641,19/20,Flex,AZUL,"R$ 84.521,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO VOLKSWAGEN S/A
+29,chevrolet/tracker ltz at,94.265,14/15,Flex,BRANCA,"R$ 70.343,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO VOLKSWAGEN S/A
+30,citroen/aircross shine at,65.222,17/18,Flex,CINZA,"R$ 63.938,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO VOLKSWAGEN S/A
+31,volkswagen/novo gol trendline mcv (4p),181.079,16/17,Flex,BRANCA,"R$ 44.610,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO VOLKSWAGEN S/A
+32,volkswagen/spacecross gii,124.537,11/12,Flex,PRATA,"R$ 37.076,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO VOLKSWAGEN S/A
+33,volkswagen/novo voyage trendline mbv (4p),241.146,18/18,Flex,PRATA,"R$ 51.485,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO VOLKSWAGEN S/A
+34,volkswagen/gol mc4 (4p),30.498,19/20,Flex,VERMELHA,"R$ 51.823,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO VOLKSWAGEN S/A
+35,volkswagen/up move sa (2p/4p),213.740,16/17,Flex,BRANCA,"R$ 53.332,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO VOLKSWAGEN S/A
+50,chevrolet/spin ltz 1.8l automatico,126.106,15/16,Flex,PRATA,"R$ 60.296,00",PATIO SALVADOR-BA,Recuperado de Financiamento,Veículos,Sim,ITAPEVA II MULTICARTEIRA
+52,peugeot/207 xr (2p/4p),142.787,12/12,Flex,PRETA,"R$ 23.701,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,ITAPEVA II MULTICARTEIRA
+53,chevrolet/spin 1.8l mt lt,378.380,15/16,Flex,BRANCA,"R$ 49.708,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,ITAPEVA II MULTICARTEIRA
+54,ford/fiesta flex (4p),137.247,13/14,Flex,PRATA,"R$ 30.356,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,ITAPEVA II MULTICARTEIRA
+55,fiat/strada working,273.350,11/12,Flex,BRANCA,"R$ 46.500,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,ITAPEVA II MULTICARTEIRA
+90,honda/fit lx flex (4p),187.418,07/08,Flex,PRATA,"R$ 28.489,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,CREDITAS SOLUCOES FINANCEIRAS LTDA
+91,fiat/palio attractive 1.0 (2p/4p),174.690,12/13,Flex,PRATA,"R$ 31.685,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,CREDITAS SOLUCOES FINANCEIRAS LTDA
+92,volkswagen/gol 1.0 giv (2p/4p),62.712,12/13,Flex,PRETA,"R$ 26.071,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,CREDITAS SOLUCOES FINANCEIRAS LTDA
+93,ford/ka flex (2p/4p),103.353,10/11,Flex,PRETA,"R$ 22.117,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,CREDITAS SOLUCOES FINANCEIRAS LTDA
+94,chevrolet/corsa sedan maxx (4p),221.125,06/06,Flex,PRATA,"R$ 19.228,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,CREDITAS SOLUCOES FINANCEIRAS LTDA
+95,chevrolet/classic ls (2p/4p),179.448,14/15,Flex,PRATA,"R$ 34.086,00",PATIO FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,CREDITAS SOLUCOES FINANCEIRAS LTDA
+97,volkswagen/voyage comfortline (4p),233.079,09/10,Flex,PRETA,"R$ 31.099,00",PATIO SALVADOR-BA,Recuperado de Financiamento,Veículos,Sim,CREDITAS SOLUCOES FINANCEIRAS LTDA
+98,chevrolet/prisma maxx (4p),119.639,10/11,Flex,PRETA,"R$ 28.018,00",PATIO SALVADOR-BA,Recuperado de Financiamento,Veículos,Sim,CREDITAS SOLUCOES FINANCEIRAS LTDA
+99,renault/clio authentique (4p),255.735,07/07,Flex,PRATA,"R$ 15.036,00",PATIO SALVADOR-BA,Recuperado de Financiamento,Veículos,Sim,CREDITAS SOLUCOES FINANCEIRAS LTDA
+120,honda/cg 160 fan,11.884,22/22,Flex,VERMELHA,"R$ 15.772,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Motos,Sim,BANCO SANTANDER S/A
+125,haojian/avelloz az1,11.922,21/22,Gasolina,BRANCA,"R$ 7.499,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Motos,Sim,BANCO SANTANDER S/A
+126,bmw/x5 fe41,67.933,09/10,Gasolina,PRETA,"R$ 89.296,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Utilitários,Sim,BANCO SANTANDER S/A
+129,ford/ka flex (2p),97.383,08/09,Flex,PRATA,"R$ 19.070,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO SANTANDER S/A
+131,ford/ecosport xlt,212.450,08/09,Flex,PRETA,"R$ 32.841,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO SANTANDER S/A
+133,chevrolet/celta life 2p (2p/4p),162.594,06/06,Flex,AZUL,"R$ 14.129,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO SANTANDER S/A
+137,kawasak/z400,16.192,21/21,Gasolina,PRETA,"R$ 28.924,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Motos,Sim,BANCO SANTANDER S/A
+139,honda/pcx 150 sport abs,8.414,20/21,Gasolina,PRATA,"R$ 18.164,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Motos,Sim,BANCO SANTANDER S/A
+144,honda/cg 160 start,75.937,17/18,Gasolina,VERMELHA,"R$ 11.793,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Motos,Sim,BANCO SANTANDER S/A
+148,ford/fiesta sedan 1.6 flex (4p),138.503,10/11,Flex,AZUL,"R$ 28.967,00",PATIO 2 - FORTALEZA/CE,Recuperado de Financiamento,Veículos,Sim,BANCO SANTANDER S/A
