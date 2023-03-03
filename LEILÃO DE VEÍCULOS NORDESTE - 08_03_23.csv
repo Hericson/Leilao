@@ -1,0 +1,11 @@
+VEHICLE,BATCH,KM,YEAR,FUEL,COLOR,FIPE,YARD,RESUME-TYPE,TYPE,HAS-KEY,BANK
+renault/kwid zen 1.0 mecanico,1,23.368,20/21,Flex,BRANCA,"R$ 49.991,00",PATIO 2 - FORTALEZA/CE,,Veículos,Sim,BANCO SANTANDER S/A
+chevrolet/prisma joye 1.0 mecanico (4p),2,58.003,19/19,Flex,BRANCA,"R$ 53.894,00",PATIO 2 - FORTALEZA/CE,,Veículos,Sim,BANCO SANTANDER S/A
+fiat/strada hard working cabine simples cc e,3,102.032,19/19,Flex,PRATA,"R$ 61.111,00",PATIO 2 - FORTALEZA/CE,,Veículos,Sim,BANCO SANTANDER S/A
+hyundai/hb20 unique (4p),4,72.312,19/19,Flex,BRANCA,"R$ 55.370,00",PATIO 2 - FORTALEZA/CE,,Veículos,Sim,BANCO SANTANDER S/A
+ford/ka se c,5,119.655,19/20,Flex,BRANCA,"R$ 57.698,00",PATIO 2 - FORTALEZA/CE,,Veículos,Sim,BANCO SANTANDER S/A
+fiat/argo drive 1.0 (4p),6,53.201,18/18,Flex,VERMELHA,"R$ 54.644,00",PATIO 2 - FORTALEZA/CE,,Veículos,Sim,BANCO SANTANDER S/A
+volkswagen/novo gol trendline mcv (4p),7,93.264,18/18,Flex,BRANCA,"R$ 46.909,00",PATIO 2 - FORTALEZA/CE,,Veículos,Sim,BANCO SANTANDER S/A
+volkswagen/jetta highline ae (4p),8,124.126,16/16,Gasolina,BRANCA,"R$ 93.171,00",PATIO 2 - FORTALEZA/CE,,Veículos,Sim,BANCO SANTANDER S/A
+honda/cg 125 cargo ks,14,Gasolina,13/13,VERMELHA,Estimativa de mercado,,,,Não,,NORSA REFRIGERANTES S/A
+honda/cg 125 cargo ks,15,Gasolina,13/13,VERMELHA,Estimativa de mercado,,,,Não,,NORSA REFRIGERANTES S/A
