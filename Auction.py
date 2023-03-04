@@ -18,24 +18,6 @@ class Auction():
                           'Estimativa de mercado': 'FIPE', 'Pátio': 'YARD', 'Retomada': 'RESUME-TYPE',
                           'Tipo': 'TYPE', 'Possui Chave': 'HAS-KEY'}
         return english_titles[title]
-        # if title == 'Ano':
-        #     return 'YEAR'
-        # if title == 'Km':
-        #     return 'KM'
-        # if title == 'Combustível':
-        #     return 'FUEL'  
-        # if title == 'Cor':
-        #     return 'COLOR'
-        # if title == 'Estimativa de mercado':
-        #     return 'FIPE'
-        # if title == 'Pátio':
-        #     return 'YARD'
-        # if title == 'Retomada':
-        #     return 'RESUME-TYPE'
-        # if title == 'Tipo':
-        #     return 'TYPE'  
-        # if title == 'Possui Chave':
-        #     return 'HAS-KEY'
     
     def get_element_text(self, path):
         value = self.navigator.find_element(By.XPATH, self.config['XPaths'][path]).text
