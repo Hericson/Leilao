@@ -1,0 +1,126 @@
+BATCH,VEHICLE,BANK,KM,YEAR,FUEL,COLOR,FIPE,YARD,RESUME-TYPE,TYPE,HAS-KEY
+1,renault/kwid zen 1.0 mecanico (4p),BANCO SANTANDER S/A,56.674,20/21,Flex,BRANCA,"R$ 50.268,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+4,honda/hr-v touring,BANCO SANTANDER S/A,87.401,18/18,Flex,BRANCA,"R$ 107.286,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+5,land rover/evoque se dynamic,BANCO SANTANDER S/A,62.731,17/17,Gasolina,VERMELHA,"R$ 184.987,00",PATIO MANAUS,Recuperado de Financiamento,Utilitários,Sim
+6,renault/kwid zen 2 (4p),BANCO SANTANDER S/A,19.593,22/23,Flex,PRATA,"R$ 61.246,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+7,hyundai/hb20 sense,BANCO SANTANDER S/A,10.461,21/22,Flex,PRATA,"R$ 69.252,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+8,chevrolet/onix plus 10tat lt1,BANCO SANTANDER S/A,19.604,21/21,Flex,VERMELHA,"R$ 82.513,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+9,renault/kwid intens 2 (4p),BANCO SANTANDER S/A,3.413,22/23,Flex,AZUL,"R$ 64.146,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+11,toyota/prius nga top,BANCO SANTANDER S/A,40.688,19/19,GASOLINA/ELETRICO,VERMELHA,"R$ 126.976,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+13,hyundai/creta1ta pltinum,BANCO SANTANDER S/A,14.481,21/22,Flex,PRATA,"R$ 142.725,00",PATIO MANAUS,Recuperado de Financiamento,Utilitários,Sim
+14,volkswagen/voyage mb5 (4p),BANCO SANTANDER S/A,51.845,18/19,Flex,PRATA,"R$ 56.021,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+15,chevrolet/onix ltz 1.4 automatico (4p),BANCO SANTANDER S/A,84.482,18/18,Flex,PRATA,"R$ 66.880,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+20,volkswagen/fox connect mb (4p),BANCO VOLKSWAGEN S/A,,21/22,Flex,BRANCA,"R$ 69.107,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Não
+21,hyundai/hb20 unique (4p),BANCO VOLKSWAGEN S/A,,19/19,Flex,CINZA,"R$ 55.370,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+22,renault/sandero expression (4p),BANCO VOLKSWAGEN S/A,,16/17,Flex,PRETA,"R$ 40.778,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Não
+23,ford/ka hatch se 1.0 b (4p),BANCO VOLKSWAGEN S/A,175.218,17/18,Flex,BRANCA,"R$ 47.081,00",PATIO MANAUS,Não informada,Veículos,Sim
+24,hyundai/hb20 (4p),BANCO VOLKSWAGEN S/A,193.520,17/18,Flex,BRANCA,"R$ 61.352,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+25,renault/logan expression (4p),BANCO VOLKSWAGEN S/A,148.648,19/20,Flex,PRETA,"R$ 51.817,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+26,volkswagen/fox connect mb (4p),BANCO VOLKSWAGEN S/A,72.600,18/19,Flex,BRANCA,"R$ 59.800,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+27,volkswagen/up mpi mc (2p/4p),BANCO VOLKSWAGEN S/A,49.096,19/20,Flex,CINZA,"R$ 66.541,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+28,volkswagen/novo gol (2p/4p),BANCO VOLKSWAGEN S/A,144.403,13/13,Flex,CINZA,"R$ 33.518,00",BENEVIDES-PA,Recuperado de Financiamento,Sucatas,Sim
+29,hyundai/hb20 unique (4p),BANCO VOLKSWAGEN S/A,89.413,18/19,Flex,CINZA,"R$ 56.063,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+30,renault/sandero authentique (4p),BANCO VOLKSWAGEN S/A,134.041,19/20,Flex,BRANCA,"R$ 48.113,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+31,volkswagen/gol mc4 (4p),BANCO VOLKSWAGEN S/A,176.342,19/20,Flex,BRANCA,"R$ 51.823,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+32,ford/focus s at s (4p),BANCO VOLKSWAGEN S/A,127.571,14/15,Flex,PRETA,"R$ 54.648,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+33,hyundai/hb20 unique (4p),BANCO VOLKSWAGEN S/A,124.183,19/19,Flex,PRETA,"R$ 55.370,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+34,volkswagen/saveiro cabine dupla cross ma,BANCO VOLKSWAGEN S/A,41.311,19/20,Flex,BRANCA,"R$ 90.783,00",PORTO VELHO-RO,Recuperado de Financiamento,Veículos,Sim
+35,volkswagen/gol mc4 (4p),BANCO VOLKSWAGEN S/A,45.294,20/21,Flex,BRANCA,"R$ 54.383,00",PORTO VELHO-RO,Não informada,Veículos,Sim
+36,volkswagen/novo fox highline md,BANCO VOLKSWAGEN S/A,113.345,16/16,Flex,VERMELHA,"R$ 52.610,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+37,nissan/versa (4p),BANCO VOLKSWAGEN S/A,214.812,18/19,Flex,PRETA,"R$ 51.207,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+38,volkswagen/gol mc4 (4p),BANCO VOLKSWAGEN S/A,29.054,21/22,Flex,BRANCA,"R$ 61.191,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+39,ford/fiesta 1.6 flex (4p),BANCO VOLKSWAGEN S/A,,13/14,Flex,PRATA,"R$ 34.222,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+40,volkswagen/gol mc4 (4p),BANCO VOLKSWAGEN S/A,87.808,20/21,Flex,BRANCA,"R$ 53.890,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+41,hyundai/hb20s comfortline (4p),BANCO VOLKSWAGEN S/A,,17/17,Flex,BRANCA,"R$ 64.008,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+60,fiat/strada advent flex cabine estendida,BANCO PAN S/A,203.752,10/11,Flex,CINZA,"R$ 46.299,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+61,chevrolet/celta lt 1.0l (2p/4p),BANCO PAN S/A,170.113,13/14,Flex,PRETA,"R$ 32.978,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+62,honda/biz 110i,BANCO PAN S/A,5.501,19/19,Gasolina,CINZA,"R$ 11.221,00",PATIO MANAUS,Recuperado de Financiamento,Motos,Sim
+63,citroen/c5 ex sd bva (4p),BANCO PAN S/A,96.554,11/12,Gasolina,PRETA,"R$ 45.797,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+64,honda/cg 160 fan,BANCO PAN S/A,7.641,21/22,Flex,VERMELHA,"R$ 16.045,00",PORTO VELHO-RO,Recuperado de Financiamento,Motos,Sim
+80,gm - chevrolet cruze lt 1.8 16v flexpower 4p mec.,ITAPEVA II MULTICARTEIRA,152.920,13/13,Flex,CINZA,"R$ 58.343,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+81,renault/sandero expression 1.0 16v (4p),ITAPEVA II MULTICARTEIRA,223.720,08/09,Flex,PRATA,"R$ 24.743,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+82,honda/cg 160 titan,ITAPEVA II MULTICARTEIRA,37.654,21/22,Flex,VERMELHA,"R$ 17.336,00",PATIO MANAUS,Recuperado de Financiamento,Motos,Sim
+83,honda/nxr160 bros esd,ITAPEVA II MULTICARTEIRA,142.644,15/15,Flex,BRANCA,"R$ 14.127,00",PATIO MANAUS,Recuperado de Financiamento,Motos,Sim
+84,yamaha ybr 150 factor ed/flex,ITAPEVA II MULTICARTEIRA,39.681,21/22,Flex,PRETA,"R$ 14.359,00",PATIO MANAUS,Recuperado de Financiamento,Motos,Sim
+85,honda/cg 160 titan,ITAPEVA II MULTICARTEIRA,34.448,20/20,Flex,VERMELHA,"R$ 16.167,00",BENEVIDES-PA,Recuperado de Financiamento,Motos,Sim
+90,kia/soul ex ff at (4p),CREDITAS SOLUCOES FINANCEIRAS LTDA,128.051,10/11,Flex,CINZA,"R$ 43.865,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+110,renault/logan life,BANCO SANTANDER S/A,140.074,19/20,Flex,BRANCA,"R$ 53.131,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+111,honda cg 160 fan/solmak trca/trcf/brazcar cargo,BANCO SANTANDER S/A,016,22/22,Flex,VERMELHA,"R$ 16.012,00",BENEVIDES-PA,Recuperado de Financiamento,Motos,Sim
+112,honda/biz 125,BANCO SANTANDER S/A,4.258,22/22,Flex,BRANCA,"R$ 15.237,00",BENEVIDES-PA,Recuperado de Financiamento,Motos,Sim
+115,volkswagen/gol mc4 (4p),BANCO SANTANDER S/A,51.511,21/22,Flex,VERMELHA,"R$ 62.746,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+118,land rover/discovery3 tdv6 s,BANCO SANTANDER S/A,147.085,08/08,Diesel,PRATA,"R$ 68.106,00",PATIO MANAUS,Recuperado de Financiamento,Utilitários,Sim
+121,ford/ka flex (2p/4p),BANCO SANTANDER S/A,76.785,08/09,Flex,PRATA,"R$ 19.141,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+124,volkswagen/polo (4p),BANCO SANTANDER S/A,297.809,07/07,Flex,VERMELHA,"R$ 26.480,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+127,honda/cg 160 titan,BANCO SANTANDER S/A,12.014,21/22,Flex,AMARELA,"R$ 17.365,00",PATIO MANAUS,Recuperado de Financiamento,Motos,Sim
+132,honda/cg 160 titan,BANCO SANTANDER S/A,42.665,21/22,Flex,AMARELA,"R$ 17.365,00",PATIO MANAUS,Recuperado de Financiamento,Motos,Sim
+134,renault/sandero zen,BANCO SANTANDER S/A,107.775,21/22,Flex,BRANCA,"R$ 67.184,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+137,xinling/bull krc f5,BANCO SANTANDER S/A,4.240,21/21,Gasolina,BRANCA,"R$ 8.675,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+139,volkswagen/gol 1.0 (2p/4p),BANCO SANTANDER S/A,127.224,09/10,Flex,BRANCA,"R$ 26.151,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+141,ford/ka flex (2p),BANCO SANTANDER S/A,,09/09,Flex,VERMELHA,"R$ 19.070,00",BENEVIDES-PA,Recuperado de Financiamento,Sucatas,Não
+144,chevrolet/celta life 2p (2p/4p),BANCO SANTANDER S/A,115.741,09/10,Flex,VERMELHA,"R$ 18.419,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+146,fiat/linea absolute dualogic (4p),BANCO SANTANDER S/A,,09/10,Flex,VERMELHA,"R$ 26.749,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Não
+149,honda/cg 160 titan,BANCO SANTANDER S/A,,22/22,Flex,AMARELA,"R$ 17.365,00",PATIO MANAUS,Recuperado de Financiamento,Motos,Não
+151,xinling/bull krc f5,BANCO SANTANDER S/A,7.958,21/21,Gasolina,VERMELHA,"R$ 8.885,00",BENEVIDES-PA,Recuperado de Financiamento,Motos,Sim
+153,renault/kwid zen 1.0 mecanico,BANCO SANTANDER S/A,55.964,21/22,Flex,PRETA,"R$ 54.587,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+156,chevrolet/celta 4p spirit (2p/4p),BANCO SANTANDER S/A,137.257,09/10,Flex,PRATA,"R$ 24.690,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+158,peugeot/207 xr (2p/4p),BANCO SANTANDER S/A,202.496,09/10,Flex,PRETA,"R$ 20.896,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+161,volkswagen/gol 1.0 giv (2p/4p),BANCO SANTANDER S/A,,09/10,Flex,PRETA,"R$ 19.541,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Não
+163,kia/cerato ex2 (4p),BANCO SANTANDER S/A,,09/10,Gasolina,VERMELHA,"R$ 38.242,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Não
+165,fiat/punto elx (4p),BANCO SANTANDER S/A,288.447,09/09,Flex,VERDE,"R$ 28.366,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+168,jtz/vr 150,BANCO SANTANDER S/A,841,20/21,Gasolina,PRETA,"R$ 13.540,00",PATIO MANAUS,Recuperado de Financiamento,Motos,Sim
+170,renault/kwid zen 1.0 mecanico (4p),BANCO SANTANDER S/A,85.787,20/21,Flex,BRANCA,"R$ 50.377,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+175,hyundai/hb20 unique (4p),BANCO SANTANDER S/A,189.090,19/19,Flex,PRETA,"R$ 56.063,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+180,fiat/palio fire economy (2p/4p),BANCO SANTANDER S/A,202.413,10/11,Flex,PRETA,"R$ 26.165,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+182,fiat/siena el flex (4p),BANCO SANTANDER S/A,182.559,10/10,Flex,PRATA,"R$ 25.201,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+185,ford/focus fc flex (4p),BANCO SANTANDER S/A,118.848,10/11,Flex,PRATA,"R$ 36.017,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+187,chevrolet/captiva sport fwd 4x2,BANCO SANTANDER S/A,120.070,10/10,Gasolina,PRATA,"R$ 39.246,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+192,honda/cb250f twister abs,BANCO SANTANDER S/A,48.925,19/19,Flex,LARANJA,"R$ 18.584,00",PATIO MANAUS,Recuperado de Financiamento,Motos,Sim
+194,ford/ka hatch se 1.0 c (4p),BANCO SANTANDER S/A,833.053,19/20,Flex,BRANCA,"R$ 53.812,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+199,fiat/punto attractive (4p),BANCO SANTANDER S/A,108.758,11/12,Flex,VERMELHA,"R$ 32.963,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+201,kasinski/comet 650r,BANCO SANTANDER S/A,13.063,10/11,Gasolina,VERMELHA,"R$ 15.848,00",PATIO MANAUS,Recuperado de Financiamento,Motos,Sim
+204,peugeot/207 xr (2p/4p),BANCO SANTANDER S/A,183.884,10/11,Flex,CINZA,"R$ 22.118,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+206,citroen/c4 glx5p f (4p),BANCO SANTANDER S/A,166.589,10/10,Flex,PRATA,"R$ 24.710,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+209,fiat/siena el flex (4p),BANCO SANTANDER S/A,106.572,10/10,Flex,CINZA,"R$ 25.201,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+211,ford/ka hatch se 1.0 c (4p),BANCO SANTANDER S/A,139.296,19/20,Flex,PRATA,"R$ 53.812,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+213,volkswagen/gol mb5 (4p),BANCO SANTANDER S/A,33.748,19/19,Flex,CINZA,"R$ 52.594,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+216,renault/kwid zen 1.0 mecanico (4p),BANCO SANTANDER S/A,54.083,18/18,Flex,BRANCA,"R$ 42.688,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+218,ford/ka hatch se 1.0 c (4p),BANCO SANTANDER S/A,,18/19,Flex,PRATA,"R$ 50.732,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+228,ford/f250 xlt w21,BANCO SANTANDER S/A,179.291,11/11,Diesel,PRATA,"R$ 207.819,00",PATIO MANAUS,Recuperado de Financiamento,Pesados,Sim
+230,hyundai i30 2.0 16v 145cv 5p aut.,BANCO SANTANDER S/A,86.672,11/12,Gasolina,PRETA,"R$ 44.504,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+233,citroen/c3 aircross glx,BANCO SANTANDER S/A,133.171,11/11,Flex,VERMELHA,"R$ 33.135,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+235,fiat/ducato minibus,BANCO SANTANDER S/A,683.083,11/12,Diesel,PRATA,"R$ 80.219,00",BENEVIDES-PA,Recuperado de Financiamento,Pesados,Não
+237,hyundai/hb20 comfort (4p),BANCO SANTANDER S/A,126.352,18/18,Flex,BRANCA,"R$ 54.569,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+240,renault/sandero stepway easy-r sce (4p),BANCO SANTANDER S/A,,18/19,Flex,BRANCA,"R$ 57.705,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+242,ford/ka se b (4p),BANCO SANTANDER S/A,119.562,18/18,Flex,PRATA,"R$ 48.355,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+245,fiat/argo drive gsr (4p),BANCO SANTANDER S/A,138.659,17/18,Flex,VERMELHA,"R$ 60.702,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+247,ford/ka hatch se 1.0 b (4p),BANCO SANTANDER S/A,97.195,17/18,Flex,VERMELHA,"R$ 47.081,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+249,toyota/corolla xei flex (4p),BANCO SANTANDER S/A,122.427,12/13,Flex,PRATA,"R$ 65.368,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+252,ford/ka flex (2p),BANCO SANTANDER S/A,122.530,11/12,Flex,PRETA,"R$ 23.984,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Não
+254,fiat/uno mille way economy (2p/4p),BANCO SANTANDER S/A,,11/12,Flex,PRATA,"R$ 25.295,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Não
+257,peugeot/207 xr (2p/4p),BANCO SANTANDER S/A,212.030,11/12,Flex,PRETA,"R$ 24.093,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Não
+259,volkswagen/gol 1.0 giv (2p/4p),BANCO SANTANDER S/A,,11/12,Flex,VERMELHA,"R$ 22.535,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+261,ford/ka hatch se 1.0 b (4p),BANCO SANTANDER S/A,93.273,17/18,Flex,BRANCA,"R$ 47.599,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+266,nissan/versa sl (2p/4p),BANCO SANTANDER S/A,,16/16,Flex,PRATA,"R$ 49.488,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Não
+269,hyundai/hb20s premium (4p),BANCO SANTANDER S/A,167.324,16/16,Flex,PRETA,"R$ 64.914,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+276,bmw/320i active flex,BANCO SANTANDER S/A,116.938,15/15,Flex,BRANCA,"R$ 110.521,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+278,fiat/palio attractive 1.0 (2p/4p),BANCO SANTANDER S/A,167.727,12/13,Flex,VERMELHA,"R$ 29.230,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+281,peugeot/207 passion xs (4p),BANCO SANTANDER S/A,109.561,12/13,Flex,PRATA,"R$ 25.979,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+283,fiat/palio attractiv (2p/4p),BANCO SANTANDER S/A,88.906,12/13,Flex,PRATA,"R$ 34.599,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+285,volkswagen/spacefox trend gii,BANCO SANTANDER S/A,157.340,12/12,Flex,BRANCA,"R$ 36.146,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+288,chevrolet/agile ltz (2p/4p),BANCO SANTANDER S/A,194.739,12/13,Flex,PRETA,"R$ 35.502,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+290,ford/ka hatch se 1.0 (4p),BANCO SANTANDER S/A,88.885,15/15,Flex,PRETA,"R$ 40.748,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+295,volkswagen/saveiro cabine simples trendline mb,BANCO SANTANDER S/A,113.990,14/15,Flex,BRANCA,"R$ 46.396,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+297,ford/focus titanium at s (4p),BANCO SANTANDER S/A,110.624,14/14,Flex,PRATA,"R$ 55.894,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+300,chevrolet/classic ls (2p/4p),BANCO SANTANDER S/A,110.683,14/15,Flex,CINZA,"R$ 33.461,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+302,fiat/ducato minibus,BANCO SANTANDER S/A,,13/14,Diesel,CINZA,"R$ 97.215,00",BENEVIDES-PA,Recuperado de Financiamento,Pesados,Sim
+305,toyota/corolla xrs flex (4p),BANCO SANTANDER S/A,149.550,13/13,Flex,PRATA,"R$ 68.334,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+307,fiat/palio attractiv (2p/4p),BANCO SANTANDER S/A,112.043,13/14,Flex,BRANCA,"R$ 37.076,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Sim
+309,ford/ecosport freestyle,BANCO SANTANDER S/A,,12/12,Flex,AZUL,"R$ 40.239,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+312,peugeot/308 allure (4p),BANCO SANTANDER S/A,65.258,12/13,Flex,BRANCA,"R$ 39.415,00",PATIO MANAUS,Recuperado de Financiamento,Veículos,Sim
+314,chevrolet/classic ls (2p/4p),BANCO SANTANDER S/A,265.145,14/15,Flex,PRATA,"R$ 33.915,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Não
+317,chev/prisma 1.4mt ltz (4p),BANCO SANTANDER S/A,31.222,14/14,Flex,BRANCA,"R$ 48.240,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Não
+317,chev/prisma 1.4mt ltz (4p),BANCO SANTANDER S/A,31.222,14/14,Flex,BRANCA,"R$ 48.240,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Não
+317,chev/prisma 1.4mt ltz (4p),BANCO SANTANDER S/A,31.222,14/14,Flex,BRANCA,"R$ 48.240,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Não
+317,chev/prisma 1.4mt ltz (4p),BANCO SANTANDER S/A,31.222,14/14,Flex,BRANCA,"R$ 48.240,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Não
+317,chev/prisma 1.4mt ltz (4p),BANCO SANTANDER S/A,31.222,14/14,Flex,BRANCA,"R$ 48.240,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Não
+317,chev/prisma 1.4mt ltz (4p),BANCO SANTANDER S/A,31.222,14/14,Flex,BRANCA,"R$ 48.240,00",BENEVIDES-PA,Recuperado de Financiamento,Veículos,Não
