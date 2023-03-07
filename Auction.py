@@ -63,25 +63,27 @@ class Auction():
 
     def get_all_vehicles(self, total_results, auction_title, delay = 8):
         vehicles = []
+        if not os.path.exists(f'{auction_title}'):
+            self.create_folder(f'{auction_title}')
 
         for _ in range(1, total_results+1):
-           
-            vehicle_full_information = self.get_full_information()
-            vehicle = vehicle_full_information['VEHICLE'].replace('/', ' ')
-            batch = vehicle_full_information['BATCH']
-            path = f'{auction_title}/{batch}-{vehicle}'
-            num_pictures = vehicle_full_information['NUM-PICTURES']
+            try:
+                vehicle_full_information = self.get_full_information()
+                vehicle = vehicle_full_information['VEHICLE'].replace('/', ' ').upper()
+                batch = vehicle_full_information['BATCH']
+                path = f'{auction_title}/{batch}-{vehicle}'
+                num_pictures = vehicle_full_information['NUM-PICTURES']
 
-            self.create_folder(f'{auction_title}')
-            self.create_folder(path) 
-
-            self.save_pictures(path, num_pictures)
-            vehicles.append(vehicle_full_information)
-            time.sleep(delay)
-            self.click('NEXT_VEHICLE') 
-            # except:
-            #     print('error')
-            #     self.click('NEXT_VEHICLE') 
+                if not os.path.exists(path):
+                    self.create_folder(path)
+                    self.save_pictures(path, num_pictures)
+                
+                vehicles.append(vehicle_full_information)
+                time.sleep(delay)
+                self.click('NEXT_VEHICLE') 
+            except:
+                print('error')
+                self.click('NEXT_VEHICLE') 
         
         return vehicles
 
@@ -96,15 +98,7 @@ class Auction():
                 time.sleep(5)
     
     def save_pictures(self, path, num_pictures):
-        # num_pictures = vehicle_full_information['NUM-PICTURES']
-        # vehicle = vehicle_full_information['VEHICLE'].replace('/', ' ')
-        # batch = vehicle_full_information['BATCH']
-        # path = f'{auction_title}/{batch}-{vehicle}'
-
-        # print(f'{auction_title}/{batch}-{vehicle}')
-        # self.create_folder(f'{auction_title}')
-        # self.create_folder(path) 
-        
+       
         self.click('FIRST-PICTURE')
         self.navigator.save_screenshot(filename=f'{path}/image_0.jpg')
         time.sleep(5)
@@ -117,5 +111,7 @@ class Auction():
     def create_folder(self, path):
         try: 
             os.mkdir(path) 
+            return True
         except OSError as error: 
            print(error)
+           return False
